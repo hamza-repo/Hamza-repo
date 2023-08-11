@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NEWdbModelStoreContainer" CdmEntityContainer="NEWdbEntities">
+    <EntitySetMapping Name="UserDbs">
+      <EntityTypeMapping TypeName="NEWdbModel.UserDb">
+        <MappingFragment StoreEntitySet="UserDb">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="father_median_name" ColumnName="father median name" />
+          <ScalarProperty Name="primary_school_name" ColumnName="primary school name" />
+          <ScalarProperty Name="mother_s_day_of_birth" ColumnName="mother's day of birth" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
