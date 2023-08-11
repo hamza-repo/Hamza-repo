@@ -1,0 +1,5 @@
+
+1 run the RestApiCRUDemo to create employee api.
+2 go to https://localhost:44374/api/employees  to view employee json string.
+3 now you can use  -appww1.sln- to show record post, delete and enquire.
+4 connection to database is specific to each device

@@ -1,0 +1,185 @@
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.exe
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.deps.json
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.runtimeconfig.json
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.runtimeconfig.dev.json
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.pdb
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.csproj.AssemblyReference.cache
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.AssemblyInfoInputs.cache
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.AssemblyInfo.cs
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.csproj.CoreCompileInputs.cache
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\staticwebassets\RestApiCRUDemo.StaticWebAssets.Manifest.cache
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.RazorTargetAssemblyInfo.cache
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.pdb
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.genruntimeconfig.cache
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DC\OneDrive\Desktop\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.csproj.CopyComplete
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\appsettings.json
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.exe
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.deps.json
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.runtimeconfig.json
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.runtimeconfig.dev.json
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.pdb
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.csproj.AssemblyReference.cache
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.AssemblyInfoInputs.cache
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.AssemblyInfo.cs
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.csproj.CoreCompileInputs.cache
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.MvcApplicationPartsAssemblyInfo.cache
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\staticwebassets\RestApiCRUDemo.StaticWebAssets.Manifest.cache
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.RazorTargetAssemblyInfo.cache
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.csproj.CopyComplete
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.dll
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.pdb
+F:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.genruntimeconfig.cache
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\appsettings.json
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.exe
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.deps.json
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.runtimeconfig.json
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.runtimeconfig.dev.json
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\RestApiCRUDemo.pdb
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.csproj.AssemblyReference.cache
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.AssemblyInfoInputs.cache
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.AssemblyInfo.cs
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.csproj.CoreCompileInputs.cache
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\staticwebassets\RestApiCRUDemo.StaticWebAssets.Manifest.cache
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\staticwebassets\RestApiCRUDemo.StaticWebAssets.Pack.cache
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.RestApiCRUDemo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.RestApiCRUDemo.props
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.RestApiCRUDemo.props
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.RestApiCRUDemo.props
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.RazorTargetAssemblyInfo.cache
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.csproj.CopyComplete
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.dll
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.pdb
+E:\New folder (13)\RestApiCRUDemo (1)_2\RestApiCRUDemo\RestApiCRUDemo\obj\Debug\netcoreapp3.1\RestApiCRUDemo.genruntimeconfig.cache

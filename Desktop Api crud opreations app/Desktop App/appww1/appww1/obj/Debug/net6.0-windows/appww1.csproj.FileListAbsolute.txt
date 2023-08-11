@@ -1,0 +1,123 @@
+F:\proj\appww1\appww1\obj\Debug\net6.0-windows\appww1.csproj.AssemblyReference.cache
+F:\proj\appww1\appww1\obj\Debug\net6.0-windows\appww1.Form1.resources
+F:\proj\appww1\appww1\obj\Debug\net6.0-windows\appww1.csproj.GenerateResource.cache
+F:\proj\appww1\appww1\obj\Debug\net6.0-windows\appww1.GeneratedMSBuildEditorConfig.editorconfig
+F:\proj\appww1\appww1\obj\Debug\net6.0-windows\appww1.AssemblyInfoInputs.cache
+F:\proj\appww1\appww1\obj\Debug\net6.0-windows\appww1.AssemblyInfo.cs
+F:\proj\appww1\appww1\obj\Debug\net6.0-windows\appww1.csproj.CoreCompileInputs.cache
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\appww1.exe
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\appww1.deps.json
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\appww1.runtimeconfig.json
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\appww1.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\appww1.pdb
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+F:\proj\appww1\appww1\obj\Debug\net6.0-windows\appww1.csproj.CopyComplete
+F:\proj\appww1\appww1\obj\Debug\net6.0-windows\appww1.dll
+F:\proj\appww1\appww1\obj\Debug\net6.0-windows\refint\appww1.dll
+F:\proj\appww1\appww1\obj\Debug\net6.0-windows\appww1.pdb
+F:\proj\appww1\appww1\obj\Debug\net6.0-windows\appww1.genruntimeconfig.cache
+F:\proj\appww1\appww1\obj\Debug\net6.0-windows\ref\appww1.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\Azure.Core.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\Azure.Identity.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\proj\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\appww1.exe
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\appww1.deps.json
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\appww1.runtimeconfig.json
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\appww1.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\appww1.pdb
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Azure.Core.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Azure.Identity.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.csproj.AssemblyReference.cache
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.Form1.resources
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.csproj.GenerateResource.cache
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.AssemblyInfoInputs.cache
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.AssemblyInfo.cs
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.csproj.CoreCompileInputs.cache
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.csproj.CopyComplete
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\refint\appww1.dll
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.pdb
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.genruntimeconfig.cache
+F:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\ref\appww1.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\appww1.exe
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\appww1.deps.json
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\appww1.runtimeconfig.json
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\appww1.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\appww1.pdb
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.csproj.AssemblyReference.cache
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.Form1.resources
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.csproj.GenerateResource.cache
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.AssemblyInfoInputs.cache
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.AssemblyInfo.cs
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.csproj.CoreCompileInputs.cache
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.csproj.CopyComplete
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\refint\appww1.dll
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.pdb
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\appww1.genruntimeconfig.cache
+E:\New folder (13)\hamza winform app (use this instead of hhh)_2\appww1\appww1\obj\Debug\net6.0-windows\ref\appww1.dll
